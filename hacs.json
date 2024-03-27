@@ -1,7 +1,7 @@
 {
-    "name": "Midea AC LAN",
+    "name": "Midea AC LAN - Custom",
     "render_readme": true,
     "homeassistant": "2022.5",
     "zip_release": true,
-    "filename": "mieda_ac_lan.zip"
+    "filename": "midea_ac_lan.zip"
 }
